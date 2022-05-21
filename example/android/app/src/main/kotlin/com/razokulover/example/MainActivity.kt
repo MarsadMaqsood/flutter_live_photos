@@ -1,4 +1,4 @@
-package com.razokulover.live_photos_example
+package com.razokulover.example
 
 import io.flutter.embedding.android.FlutterActivity
 
